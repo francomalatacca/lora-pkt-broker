@@ -1,0 +1,22 @@
+{
+  "name": "lora-pkt-broker",
+  "version": "0.1.0",
+  "description": "lora packet broker. Dispatch packets received from gateway single channel gateway software and dispatch data to an application",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francomalatacca/lora-pkt-broker.git"
+  },
+  "author": "franco malatacca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/francomalatacca/lora-pkt-broker/issues"
+  },
+  "homepage": "https://github.com/francomalatacca/lora-pkt-broker#readme",
+  "dependencies": {
+    "dgram": "^1.0.1"
+  }
+}
